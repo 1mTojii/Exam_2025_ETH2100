@@ -2,6 +2,6 @@
 My ethical hacking exam of 2025 Kristiania
 ---------------------------------------------
 This eksam has been marked with an A so
-Feel free to use my work for furture studies.
+feel free to use my work for furture studies.
 
 good luck :)
